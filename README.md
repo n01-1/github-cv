@@ -1,7 +1,6 @@
 # Ali Nourmohammadi
 
-_Software engineer, a little Site reliability engineer._<br>
-_A hard worker, A good learner and Trying to be a good human._<br>
+_Software engineer and a little Site reliability engineer._<br>
 
 [Email](mailto:nourmohammadialin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ali-nourmohammadi-4b127290/) / [GitHub](https://github.com/n01-1/) 
 
