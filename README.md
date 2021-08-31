@@ -50,4 +50,4 @@ Sometimes accept projects to do in my free times
 [IUT](http://english.iut.ac.ir/) - Isfahan University of Technology, Isfahan, Iran _(2013 - 2018)_
 
 <br><br>
-Inspired from https://github.com/carolstran/cv repo.
+Inspired from [this](https://github.com/carolstran/cv) repo.
