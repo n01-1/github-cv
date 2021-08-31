@@ -1,5 +1,4 @@
 # Ali Nourmohammadi
-
 _Software engineer and a little Site reliability engineer._<br>
 
 [Email](mailto:nourmohammadialin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ali-nourmohammadi-4b127290/) / [GitHub](https://github.com/n01-1/) 
