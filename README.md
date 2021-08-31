@@ -56,7 +56,7 @@ In the early days of Covid-19 pandemic, we started this start-up for groceries s
   <br><br>
 
 **Freelancer** <br>
-Sometimes accept projects to do in my free times
+Accept and implement freelance projects to do in my free times
 - **_Technologies used:_** Linux, Docker, Nginx, Python, FastApi, Flask, Django, ...
   <br><br>
   
