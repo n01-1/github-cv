@@ -47,6 +47,7 @@ _Software engineer and a little Site reliability engineer._<br>
 - Hadoop
 - Spark
 - Vagrant
+- ...
 
 ## 📌 On The Side
 
