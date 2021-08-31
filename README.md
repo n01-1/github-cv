@@ -22,6 +22,32 @@ _Software engineer and a little Site reliability engineer._<br>
   - **_Technologies used:_** Linux, C++, Qt, GUIX.
     <br><br>
 
+## Skills
+
+- Python
+- FastApi
+- Django
+- Flask
+- Docker
+- Celery
+- Nginx
+- Linux
+- Bash
+- Redis
+- Security
+- Computer Networks
+- MySql
+- PostgreSql
+- MongoDB
+- RabbitMQ
+- Git
+- Scrum
+- CI-CD
+- Kafka
+- Hadoop
+- Spark
+- Vagrant
+
 ## 📌 On The Side
 
 **Co-Organizer and Backend-Developer** @ **Martak** <br>
